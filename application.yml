@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Items that apply to ALL profiles:
 eureka:
   client:
@@ -35,6 +36,8 @@ eureka:
 
 
 ---
+=======
+>>>>>>> parent of 87bc285... lab4
 =======
 >>>>>>> parent of 87bc285... lab4
 spring:
